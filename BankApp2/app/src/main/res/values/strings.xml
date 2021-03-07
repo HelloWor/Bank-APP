@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bank App</string>
+    <string name="text_view_connect">Touch Sensor to Connect</string>
+    <string name="button_refresh">Refresh</string>
+</resources>
